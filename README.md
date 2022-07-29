@@ -1,6 +1,6 @@
 # Final_Assessment
 
-* Self-Assessment *
+ Self-Assessment 
 
   For the assignment the first and second week was good, we all talked and figured out what we were doing. At first we were confident in what we were drop and why we were dropping it and that made us see that the question was straight forward. After the second week we saw that we as a team were asking different question and we got back on track. The question was will your flight be delayed or not, and we were adding to that by thinking that we can add how long is your delay? Once we realized as a team that we were moving away from the original question we went back.
 
